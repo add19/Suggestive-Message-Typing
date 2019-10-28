@@ -1,5 +1,4 @@
-#include<iostream>
-#include<fstream>
+This is a code for suggestive message Typing. Its cool.
 #include<cstdlib>
 #include<vector>
 #include<string>
